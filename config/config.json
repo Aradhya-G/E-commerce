@@ -1,14 +1,14 @@
 {
   "development": {
     "username": "root",
-    "password":"qwertyuiop" ,
+    "password":"test12345" ,
     "database": "E-Commerce",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
-    "password": "qwertyuiop",
+    "password": "test12345",
     "database": "E-Commerce",
     "host": "127.0.0.1",
     "dialect": "mysql"
