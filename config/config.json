@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "test1234",
-    "password": "admin5638",
-    "database": "ecommerce-test",
-    "host": "www.db4free.net",
+    "username": "test_46281",
+    "password": "test12345",
+    "database": "ecommerce37294",
+    "host": "db4free.net",
     "dialect": "mysql"
   }
 }
