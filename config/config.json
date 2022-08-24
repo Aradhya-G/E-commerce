@@ -14,9 +14,9 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": "admin",
-    "database": "database_production",
+    "username": "test1234",
+    "password": "admin5638",
+    "database": "ecommerce-test",
     "host": "www.db4free.net",
     "dialect": "mysql"
   }
